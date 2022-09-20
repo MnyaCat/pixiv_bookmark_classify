@@ -1,0 +1,12 @@
+{
+    "refresh_token": "",
+    "progress_public": -1,
+    "progress_private": -1,
+    "bookmarks_public": null,
+    "bookmarks_private": null,
+    "exclude_tags": [],
+    "private_tags": [],
+    "preferred_tags": "bookmark",
+    "delete_tags": [],
+    "delete_if_unknown": false
+}
